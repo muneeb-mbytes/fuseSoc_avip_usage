@@ -8,3 +8,7 @@ https://fusesoc.readthedocs.io/en/stable/user/cli.html#ug-cli
 
 # Usage Video 
 https://youtu.be/7eWRAOK9mns
+
+# What all this script should do:
+[msim.pdf](https://github.com/muneeb-mbytes/fuseSoc_avip_usage/files/9093294/msim.pdf)
+
